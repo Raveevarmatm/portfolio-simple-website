@@ -9,7 +9,7 @@ HTML: For the structure and content of the website.
 CSS: For styling and layout of the website.
 
 *Usage*
-To view the portfolio website, simply clone this repository and open [link] in your preferred web browser.
+To view the portfolio website, simply clone this repository and open [[link](https://raveevarmatm.github.io/portfolio-simple-website/)] in your preferred web browser.
 
 
 
